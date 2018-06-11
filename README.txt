@@ -1,5 +1,5 @@
 
-TITLE: 
+TITLE:
 Solid - One Page Fully Responsive Free HTML5 template
 
 AUTHOR:
